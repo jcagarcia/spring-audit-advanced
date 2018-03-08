@@ -1,10 +1,10 @@
-package io.codegen.springauditadvanced.service.impl;
+package io.github.jcagarcia.springauditadvanced.service.impl;
 
-import io.codegen.springauditadvanced.model.Auditory;
-import io.codegen.springauditadvanced.model.enums.OperationResult;
-import io.codegen.springauditadvanced.model.enums.OperationType;
-import io.codegen.springauditadvanced.repository.AuditoryRepository;
-import io.codegen.springauditadvanced.service.api.AuditoryService;
+import io.github.jcagarcia.springauditadvanced.model.Auditory;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationResult;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationType;
+import io.github.jcagarcia.springauditadvanced.repository.AuditoryRepository;
+import io.github.jcagarcia.springauditadvanced.service.api.AuditoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package io.codegen.springauditadvanced.web;
+package io.github.jcagarcia.springauditadvanced.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

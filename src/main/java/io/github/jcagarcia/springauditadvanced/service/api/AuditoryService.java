@@ -1,8 +1,8 @@
-package io.codegen.springauditadvanced.service.api;
+package io.github.jcagarcia.springauditadvanced.service.api;
 
-import io.codegen.springauditadvanced.model.Auditory;
-import io.codegen.springauditadvanced.model.enums.OperationResult;
-import io.codegen.springauditadvanced.model.enums.OperationType;
+import io.github.jcagarcia.springauditadvanced.model.Auditory;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationResult;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationType;
 
 /**
  * = AuditoryService

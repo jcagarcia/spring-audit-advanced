@@ -1,13 +1,13 @@
-package io.codegen.springauditadvanced.web;
+package io.github.jcagarcia.springauditadvanced.web;
 
-import io.codegen.springauditadvanced.model.AuditableEntity;
-import io.codegen.springauditadvanced.model.Auditory;
-import io.codegen.springauditadvanced.utils.AuditoryContext;
-import io.codegen.springauditadvanced.utils.AuditoryContextHolder;
-import io.codegen.springauditadvanced.model.enums.OperationResult;
-import io.codegen.springauditadvanced.model.enums.OperationType;
-import io.codegen.springauditadvanced.service.api.AuditoryItemService;
-import io.codegen.springauditadvanced.service.api.AuditoryService;
+import io.github.jcagarcia.springauditadvanced.model.AuditableEntity;
+import io.github.jcagarcia.springauditadvanced.model.Auditory;
+import io.github.jcagarcia.springauditadvanced.utils.AuditoryContext;
+import io.github.jcagarcia.springauditadvanced.utils.AuditoryContextHolder;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationResult;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationType;
+import io.github.jcagarcia.springauditadvanced.service.api.AuditoryItemService;
+import io.github.jcagarcia.springauditadvanced.service.api.AuditoryService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.Authentication;

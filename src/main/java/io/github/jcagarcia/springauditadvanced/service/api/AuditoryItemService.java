@@ -1,7 +1,7 @@
-package io.codegen.springauditadvanced.service.api;
+package io.github.jcagarcia.springauditadvanced.service.api;
 
-import io.codegen.springauditadvanced.model.AuditoryItem;
-import io.codegen.springauditadvanced.model.Auditory;
+import io.github.jcagarcia.springauditadvanced.model.AuditoryItem;
+import io.github.jcagarcia.springauditadvanced.model.Auditory;
 
 /**
  * = AuditoryItemService

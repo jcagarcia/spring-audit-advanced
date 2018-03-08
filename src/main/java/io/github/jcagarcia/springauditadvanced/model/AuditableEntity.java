@@ -1,6 +1,6 @@
-package io.codegen.springauditadvanced.model;
+package io.github.jcagarcia.springauditadvanced.model;
 
-import io.codegen.springauditadvanced.utils.AuditoryContextHolder;
+import io.github.jcagarcia.springauditadvanced.utils.AuditoryContextHolder;
 
 import javax.persistence.MappedSuperclass;
 import javax.persistence.PostLoad;

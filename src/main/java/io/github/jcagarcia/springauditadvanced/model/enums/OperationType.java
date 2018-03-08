@@ -1,4 +1,4 @@
-package io.codegen.springauditadvanced.model.enums;
+package io.github.jcagarcia.springauditadvanced.model.enums;
 
 /**
  * = OperationType

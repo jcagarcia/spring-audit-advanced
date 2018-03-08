@@ -1,6 +1,6 @@
-package io.codegen.springauditadvanced.model;
+package io.github.jcagarcia.springauditadvanced.model;
 
-import io.codegen.springauditadvanced.model.enums.OperationType;
+import io.github.jcagarcia.springauditadvanced.model.enums.OperationType;
 
 import javax.persistence.Entity;
 import javax.persistence.Enumerated;

@@ -1,6 +1,6 @@
-package io.codegen.springauditadvanced.utils;
+package io.github.jcagarcia.springauditadvanced.utils;
 
-import io.codegen.springauditadvanced.model.AuditableEntity;
+import io.github.jcagarcia.springauditadvanced.model.AuditableEntity;
 
 import java.util.ArrayList;
 import java.util.HashMap;

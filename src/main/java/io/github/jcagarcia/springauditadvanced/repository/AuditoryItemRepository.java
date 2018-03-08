@@ -1,6 +1,6 @@
-package io.codegen.springauditadvanced.repository;
+package io.github.jcagarcia.springauditadvanced.repository;
 
-import io.codegen.springauditadvanced.model.AuditoryItem;
+import io.github.jcagarcia.springauditadvanced.model.AuditoryItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

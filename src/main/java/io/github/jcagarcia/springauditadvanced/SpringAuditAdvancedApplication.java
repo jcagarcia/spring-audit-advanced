@@ -1,4 +1,4 @@
-package io.codegen.springauditadvanced;
+package io.github.jcagarcia.springauditadvanced;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
